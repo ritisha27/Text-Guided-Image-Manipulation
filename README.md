@@ -5,4 +5,6 @@ The implementation of the above problem is done using two different methodologie
 
 1. StyleGAN + CLIP loss
 1. Diffusion + CLIP loss
+
+   
 Diffusion showed better results both qualitatively and quantitatively than StyleGAN.
