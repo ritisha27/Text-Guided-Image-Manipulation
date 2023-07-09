@@ -3,6 +3,6 @@ Text-guided image manipulation is an image editing technique that manipulates a 
 
 The implementation of the above problem is done using two different methodologies:
 
-[^1]: StyleGAN + CLIP loss
-[^2]: Diffusion + CLIP loss
+1. StyleGAN + CLIP loss
+1. Diffusion + CLIP loss
 Diffusion showed better results both qualitatively and quantitatively than StyleGAN.
